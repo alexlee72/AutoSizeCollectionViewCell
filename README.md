@@ -1,4 +1,4 @@
 # AutoSizeCollectionViewCell
 Auto sizing collection view cell
 
-./auto-size-cell.png
+![Screenshot](auto-size-cell.png)
